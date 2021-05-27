@@ -27,7 +27,7 @@ and also some other stuff like daggers and sky, but that's not that important...
 - LightCyan
 - LightBlue
 - DodgerBlue
-- (Limber) DeepSkyBlue
+- (Delightful) DeepSkyBlue
 - (Decent) DarkTurquoise
 - (Direct) DarkSlateBlue
 - (Detailed) DarkBlue
@@ -36,3 +36,19 @@ and also some other stuff like daggers and sky, but that's not that important...
 - (Creative) CadetBlue
 - (Affordable) Aquamarine
 - (Acceptable) Aqua
+### Browns
+- Wheat
+- Tan
+- Sienna
+- SandyBrown
+- RosyBrown
+- Peru
+- Maroon
+- Goldenrod
+- DarkGoldenRod
+- Cornsilk
+- Chocolate
+- BurlyWood
+- Brown
+- BlanchedAlmond
+- Bisque
