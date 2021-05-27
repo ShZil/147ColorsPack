@@ -7,7 +7,7 @@ All the 147 html colors for Elytra! yes very cool indeed.
 
 and also some other stuff like daggers and sky, but that's not that important...
 
-### Elytra Colours
+### Elytra Colours (Naming: [color] elytra)
 #### Blues
 - (Angelic) AliceBlue
 - (Beautiful) Blue
