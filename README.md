@@ -52,3 +52,7 @@ and also some other stuff like daggers and sky, but that's not that important...
 - Brown
 - BlanchedAlmond
 - Bisque
+### Greys
+- SlateGrey / SlateGray
+- Silver
+- LightSlateGrey
